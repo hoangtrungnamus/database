@@ -1,0 +1,44 @@
+{
+  family: [
+    {
+      "id": ,
+      "name": "",
+      "year-of-birth": ,
+      "gender": "",
+    },
+    {
+      "id": "",
+      "name": ,
+      "year-of-birth": ,
+      "gender": "",
+    },
+    {
+      "id": ,
+      "name": "",
+      "year-of-birth": ,
+      "gender": "",
+    },
+    {
+      "id": "",
+      "name": ,
+      "year-of-birth": ,
+      "gender": "",
+    },{
+      "id": ,
+      "name": "",
+      "year-of-birth": ,
+      "gender": "",
+    },
+    {
+      "id": "",
+      "name": ,
+      "year-of-birth": ,
+      "gender": "",
+    },{
+      "id": ,
+      "name": "",
+      "year-of-birth": ,
+      "gender": "",
+    }
+  ]
+}
